@@ -1,6 +1,6 @@
 {
   "name": "@m_held/quasar-app-extension-tailwindcss",
-  "version": "2.0.6",
+  "version": "2.0.7",
   "description": "Integration of TailwindCSS into Quasar Framework",
   "author": "Matthias Sondermann <sondermann.m@gmail.com>",
   "license": "MIT",
@@ -29,10 +29,10 @@
     "yarn": ">= 1.6.0"
   },
   "dependencies": {
-    "@fullhuman/postcss-purgecss": "^3.0.0",
-    "autoprefixer": "^9.8.6",
-    "inquirer": "^7.0.0",
-    "postcss": "^7.0.35",
-    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.1"
+    "@fullhuman/postcss-purgecss": "^4.0.3",
+    "autoprefixer": "^10.2.6",
+    "inquirer": "^8.1.1",
+    "postcss": "^8.2.10",
+    "tailwindcss": "^2.2.4"
   }
 }
